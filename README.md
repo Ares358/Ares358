@@ -13,10 +13,10 @@
 
 ## 📊 My stats
 
-[![Ares358's github stats](https://github-readme-stats.vercel.app/api?username=Ares358&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Ares358's github stats](https://github-readme-stats.vercel.app/api?username=Ares358&count_private=true&show_icons=true&theme=radical)
 
-[![Ares358's trophy](https://github-profile-trophy.vercel.app/?username=Ares358&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+![Ares358's trophy](https://github-profile-trophy.vercel.app/?username=Ares358&theme=monokai)
 
-[![Profile views](https://komarev.com/ghpvc/?username=Ares358)](https://github.com/antonkomarev/github-profile-views-counter)
-[![Repos Badge](https://badges.pufler.dev/repos/Ares358)](https://badges.pufler.dev) 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Ares358)](https://badges.pufler.dev)
+![Profile views](https://komarev.com/ghpvc/?username=Ares358)
+![Repos Badge](https://badges.pufler.dev/repos/Ares358)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/Ares358)
