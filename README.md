@@ -1,15 +1,22 @@
-### Hi there 👋
+<h1 align="center"> Hi there! 👋 </h1>
+<img align="right" src="https://media.giphy.com/media/gQbVzXQQbGO7C/giphy.gif" >
 
+- 🔭 I’m currently working on [Twitter Lyric Bot](https://github.com/Ares358/Twitter_LyricBot)
+- 🌱 I’m currently learning Data Science and ML
+- 👯 I’m currently collaborating on Vicki Langer's [LGBTQ-of-the-day-bot🌈](https://github.com/VickiLanger/Queer-of-the-day-bot)
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+## ⚒️ Technologies & Tools
+![](https://img.shields.io/badge/code-C-brightgreen) ![](https://img.shields.io/badge/code-C++-brightgreen) ![](https://img.shields.io/badge/code-Python-brightgreen) ![](https://img.shields.io/badge/code-Java-brightgreen)  ![](https://img.shields.io/badge/code-R-brightgreen) ![](https://img.shields.io/badge/code-SQL-brightgreen) ![](https://img.shields.io/badge/code-Javascript-brightgreen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://img.shields.io/badge/editor-VS_code-blue) ![](https://img.shields.io/badge/editor-Pycharm-blue) ![](https://img.shields.io/badge/tool-R_Studio-blue)
+
+## 📊 My stats
 
 [![Ares358's github stats](https://github-readme-stats.vercel.app/api?username=Ares358&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ares358's trophy](https://github-profile-trophy.vercel.app/?username=Ares358&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Profile views](https://komarev.com/ghpvc/?username=Ares358)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Repos Badge](https://badges.pufler.dev/repos/Ares358)](https://badges.pufler.dev) 
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Ares358)](https://badges.pufler.dev)
