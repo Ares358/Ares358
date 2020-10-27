@@ -10,17 +10,17 @@
 ![](https://img.shields.io/badge/code-C-brightgreen) ![](https://img.shields.io/badge/code-C++-brightgreen) ![](https://img.shields.io/badge/code-Python-brightgreen) ![](https://img.shields.io/badge/code-Java-brightgreen)  ![](https://img.shields.io/badge/code-R-brightgreen) ![](https://img.shields.io/badge/code-SQL-brightgreen) ![](https://img.shields.io/badge/code-Javascript-brightgreen)
 
 ![](https://img.shields.io/badge/editor-VS_code-blue) ![](https://img.shields.io/badge/editor-Pycharm-blue) ![](https://img.shields.io/badge/tool-R_Studio-blue)
-
+<marquee>
 <table align="center" width="100%"> 
   <tr>
   <td width="50%">
       
-[![Spotify](https://spotifynowplaying-ten.vercel.app/api/spotify)](https://open.spotify.com/user/q538b7xt8kvbw532mxoo9an87)
+&nbsp; <br> [![Spotify](https://spotifynowplaying-ten.vercel.app/api/spotify)](https://open.spotify.com/user/q538b7xt8kvbw532mxoo9an87)
 
   </td>
   </tr>
 </table>
-
+</marquee>
 
 
 ## 📊 My stats
