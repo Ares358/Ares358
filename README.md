@@ -1,5 +1,5 @@
-<img align="right" src="https://media.giphy.com/media/gQbVzXQQbGO7C/giphy.gif" >
 <h1 align="center"> Hi there! 👋 </h1>
+<img align="right" src="https://media.giphy.com/media/gQbVzXQQbGO7C/giphy.gif" >
 
 - 🔭 I’m currently working on [Twitter Lyric Bot](https://github.com/Ares358/Twitter_LyricBot)
 - 🌱 I’m currently learning Data Science and ML
