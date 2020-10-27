@@ -6,12 +6,12 @@
 - 👯 I’m currently collaborating on Vicki Langer's [LGBTQ-of-the-day-bot🌈](https://github.com/VickiLanger/Queer-of-the-day-bot)
 - 😄 Pronouns: He/Him
 
-[![Spotify](https://spotifynowplaying-ten.vercel.app/api/spotify)](https://open.spotify.com/user/q538b7xt8kvbw532mxoo9an87)
-
 ## ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/code-C-brightgreen) ![](https://img.shields.io/badge/code-C++-brightgreen) ![](https://img.shields.io/badge/code-Python-brightgreen) ![](https://img.shields.io/badge/code-Java-brightgreen)  ![](https://img.shields.io/badge/code-R-brightgreen) ![](https://img.shields.io/badge/code-SQL-brightgreen) ![](https://img.shields.io/badge/code-Javascript-brightgreen)
 
 ![](https://img.shields.io/badge/editor-VS_code-blue) ![](https://img.shields.io/badge/editor-Pycharm-blue) ![](https://img.shields.io/badge/tool-R_Studio-blue)
+
+[![Spotify](https://spotifynowplaying-ten.vercel.app/api/spotify)](https://open.spotify.com/user/q538b7xt8kvbw532mxoo9an87)
 
 ## 📊 My stats
 
