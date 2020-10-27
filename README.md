@@ -24,9 +24,8 @@
 
 
 ## 📊 My stats
-<center>
 [![Ares358's github stats](https://github-readme-stats.vercel.app/api?username=Ares358&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+
 [![Ares358's trophy](https://github-profile-trophy.vercel.app/?username=Ares358&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Ares358&color=brightgreen)](https://github.com/antonkomarev/github-profile-views-counter)
