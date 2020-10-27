@@ -11,8 +11,16 @@
 
 ![](https://img.shields.io/badge/editor-VS_code-blue) ![](https://img.shields.io/badge/editor-Pycharm-blue) ![](https://img.shields.io/badge/tool-R_Studio-blue)
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://spotifynowplaying-ten.vercel.app/api/spotify)](https://open.spotify.com/user/q538b7xt8kvbw532mxoo9an87)
 
-[![Spotify](https://spotifynowplaying-ten.vercel.app/api/spotify)](https://open.spotify.com/user/q538b7xt8kvbw532mxoo9an87)
+  </td>
+  </tr>
+</table>
+
 
 
 ## 📊 My stats
