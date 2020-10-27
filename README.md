@@ -10,12 +10,7 @@
 ![](https://img.shields.io/badge/code-C-brightgreen) ![](https://img.shields.io/badge/code-C++-brightgreen) ![](https://img.shields.io/badge/code-Python-brightgreen) ![](https://img.shields.io/badge/code-Java-brightgreen)  ![](https://img.shields.io/badge/code-R-brightgreen) ![](https://img.shields.io/badge/code-SQL-brightgreen) ![](https://img.shields.io/badge/code-Javascript-brightgreen)
 
 ![](https://img.shields.io/badge/editor-VS_code-blue) ![](https://img.shields.io/badge/editor-Pycharm-blue) ![](https://img.shields.io/badge/tool-R_Studio-blue)
-<style>
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}  
-</style>
+
 <table class="center" width="100%"> 
   <tr>
   <td width="50%">
