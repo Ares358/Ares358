@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on [Twitter Lyric Bot](https://github.com/Ares358/Twitter_LyricBot)
 - 🌱 I’m currently learning Data Science and ML
-- 👯 I’m currently collaborating on Vicki Langer's [LGBTQ-of-the-day-bot🌈](https://github.com/VickiLanger/Queer-of-the-day-bot)
 - 😄 Pronouns: He/Him
 
 ## ⚒️ Technologies & Tools
