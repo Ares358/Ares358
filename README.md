@@ -11,6 +11,9 @@
 
 ![](https://img.shields.io/badge/editor-VS_code-blue) ![](https://img.shields.io/badge/editor-Pycharm-blue) ![](https://img.shields.io/badge/tool-R_Studio-blue)
 
+<br>
+<hr>
+
 <table align="center" width="100%"> 
   <tr>
   <td width="50%">
