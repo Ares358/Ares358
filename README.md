@@ -15,7 +15,7 @@
 
 ##
 
-<table align="center" width="100%"> 
+<table align="center" width="100%" border="0"> 
   <tr>
   <td width="50%">
       
@@ -27,10 +27,32 @@
 
 
 ## 📊 My stats
+
+
+<table align="center" width="100%" border=0>
+<tbody>
+<tr>
+<td align="center">
+              
 [![Ares358's github stats](https://github-readme-stats.vercel.app/api?username=Ares358&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+                   
+</td>
+</tr>
+<tr>
+<td align="center">
 
 [![Ares358's trophy](https://github-profile-trophy.vercel.app/?username=Ares358&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+                
+</td>
+</tr>
+<tr>
+<td align="center">
 
 [![Profile views](https://komarev.com/ghpvc/?username=Ares358&color=brightgreen)](https://github.com/antonkomarev/github-profile-views-counter)
 [![Repos Badge](https://badges.pufler.dev/repos/Ares358)](https://badges.pufler.dev) 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ares358)](https://badges.pufler.dev)
+  
+</td>
+</tr>
+</tbody>
+</table>
