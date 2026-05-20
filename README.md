@@ -1,5 +1,3 @@
-<img align="right" width="220" src="https://media.giphy.com/media/gQbVzXQQbGO7C/giphy.gif">
-
 <h1 align="center">Hi, I'm Sunny Kushwaha 👋</h1>
 
 <h3 align="center">Data Scientist | Applied ML | NLP, GenAI & Retail Product Analytics</h3>
@@ -14,6 +12,10 @@
   <a href="https://github.com/Ares358">
     <img src="https://komarev.com/ghpvc/?username=Ares358&color=brightgreen&style=flat-square">
   </a>
+</p>
+
+<p align="center">
+  <img width="300" src="https://media.giphy.com/media/gQbVzXQQbGO7C/giphy.gif">
 </p>
 
 ---
